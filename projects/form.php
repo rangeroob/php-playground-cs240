@@ -1,5 +1,3 @@
-
-
 <html>
 
 <head>
@@ -23,8 +21,6 @@ body {
 
 </style>
 </head>
-
-
 
 <body>
 
