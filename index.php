@@ -60,6 +60,8 @@ body {
 <li><a href='./projects/customerformwk5.php'>Conditionals</a></li>
 <h2>week six</h2>
 <li><a href='./projects/arrayloop.php'>Arrays&Loops</a></li>
+<h2>week seven</h2>
+<li><a href='./projects/hw7.html'>Functions</a></li>
 </div>
 
 </body>
