@@ -4,6 +4,9 @@
         if ($changeIt < 0) {
             return -$changeIt;
         }
+        elseif ($changeIt > 0) {
+			return -$changeIt;
+		}
     } // end function
 
     $changeIt = $_REQUEST['changeIt'];
