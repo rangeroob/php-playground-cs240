@@ -19,7 +19,7 @@
 	"<a href='https://en.wikipedia.org/wiki/Deep_Purple'>Deep Purple</a>",
 	"<a href='https://en.wikipedia.org/wiki/Pink_Floyd'>Pink Floyd</a>",
 	"<a href='https://en.wikipedia.org/wiki/Black_Sabbath'>Black Sabbath</a>");
-	
+
 	foreach ($bands as $value) {
 		echo "I like: $value <br>";
 	}
