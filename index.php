@@ -59,9 +59,15 @@ body {
 <h2>week five</h2>
 <li><a href='./projects/customerformwk5.php'>Conditionals</a></li>
 <h2>week six</h2>
-<li><a href='./projects/arrayloop.php'>Arrays&Loops</a></li>
+<li><a href='./projects/arrayloop.php'>ArraysLoops</a></li>
 <h2>week seven</h2>
 <li><a href='./projects/hw7.html'>Functions</a></li>
+<h2>week ten</h2>
+<li><a href= './projects/hw10-stu.php'>Student List</a></li>
+<li><a href= './projects/hw10-cus.php'>Customer List</a></li>
+<h2>week eleven</h2>
+<li><a href= './projects/hw11student.html'>Student Update</a></li>
+<li><a href= './projects/hw11customer.html'>Customer Update</a></li>
 </div>
 
 </body>
