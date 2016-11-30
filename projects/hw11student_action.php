@@ -12,7 +12,7 @@
 // this connects To database
 $hostname="viera240.db.4076890.hostedresource.com";    
 $username="viera240";   
-$password="Nscc240!";    
+$password="";    
 $dbname="viera240"; 
 
 $conn = new mysqli($hostname, $username, $password, $dbname );
