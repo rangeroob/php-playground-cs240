@@ -7,7 +7,7 @@
 // this connects to the database, as before
 $hostname="viera240.db.4076890.hostedresource.com";    
 $username="viera240";   
-$password="Nscc240!";    
+$password="";    
 $dbname="viera240"; 
 
 // Create connection
