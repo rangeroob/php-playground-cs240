@@ -35,12 +35,12 @@ print "There are currently $num customers on file<br><br>";
 // the results are then printed on one line
 // you can pick any fields you like to print
 while ($row = mysqli_fetch_array($result)) {
-    $custNo = $row['cusNo'];
+    $custNo = $row['custNo'];
     $custFirst = $row['custFirst'];
     $custLast = $row['custLast'];
     $custAddress = $row['custAddress'];
     $custZip = $row['custZip'];
-    print "$custID $custFirst $custLast $custAddress $custZip<br>";
+    print "$custNo $custFirst $custLast $custAddress $custZip<br>";
 }
 
 ?>
