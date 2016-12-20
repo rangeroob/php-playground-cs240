@@ -66,8 +66,17 @@ body {
 <li><a href= './projects/hw10-stu.php'>Student List</a></li>
 <li><a href= './projects/hw10-cus.php'>Customer List</a></li>
 <h2>week eleven</h2>
-<li><a href= './projects/hw11student.html'>Student Update</a></li>
-<li><a href= './projects/hw11customer.html'>Customer Update</a></li>
+<li><a href= './projects/hw11student.html'>Student Table Insert</a></li>
+<li><a href= './projects/hw11customer.html'>Customer Table Insert</a></li>
+<h2>week twelve</h2>
+<li><a href= './projects/student_list2.php'>Student list</a></li>
+<li><a href='./projects/customer_list2.php'>Customer list</a></li>
+<h2>week thirteen</h2>
+<li><a href='./projects/student_list3.php'>Student Update</a></li>
+<li><a href='./projects/customer_list3.php'>Customer Update</a></li>
+<h2>week fourteen</h2>
+<li><a href='./projects/student_list4.php'>Student Update with sort and delete </a></li>
+<li><a href='./projects/customer_list4.php'>Customer Update with sort and delete </a></li>
 </div>
 
 </body>

@@ -29,6 +29,7 @@ $custAddress = $_REQUEST["custAddress"];
 $custCity = $_REQUEST["custCity"];
 $custState = $_REQUEST["custState"];
 $custZip = $_REQUEST["custZup"];
+$custEmail = $_REQUEST["custEmail"];
 $custPhone = $_REQUEST["custPhone"];
 
 // the date function is used near the end to set the Added Date for the record
@@ -38,7 +39,7 @@ $dt = date('Y-m-d');
 // now I setup a query to insert
 // I must have the EXACT number of fields and in the EXACT order
 // null is used in the first first to establish the auto key
-$query = "insert into studentTab values (
+$query = "insert into custTab values (
     null,
     '$custFirst',
     '$custLast',
@@ -46,6 +47,7 @@ $query = "insert into studentTab values (
     '$custCity',
     '$custState',
     '$custZip',
+    '$custEmail',
     '$custPhone',
     '$dt',
     null
